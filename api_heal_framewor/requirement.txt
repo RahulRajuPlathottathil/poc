@@ -1,5 +1,0 @@
-pytest
-requests
-google-generativeai
-google-genai
-jsonschema
